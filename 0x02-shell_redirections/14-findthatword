@@ -1,0 +1,2 @@
+#!/bin/bash
+drep -i "root" /etc/passwd
